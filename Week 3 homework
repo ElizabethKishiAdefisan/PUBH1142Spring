@@ -1,0 +1,30 @@
+What is the primary goal of data anonymization?:to protect individual data privacy by removing or masking personally identifiable information from datasets
+
+What is the Havasupai Tribe case about? allegations against Arizona State University researchers for using DNA samples collected from tribe members under the pretext of studying diabetes but later repurposing them for unrelated research without proper consent. This raised significant concerns on informed consent
+
+What was the largest health data breach in history?: The anthem cyber attack
+
+What is the pulse oximeter controversy about? the device had reduced accuracy on darker skin tones leading to higher rates of misdiagnosis
+
+What is the role of an Institutional Review Board (IRB) in research?: protect the rights and welfare of human research subjects
+
+What is the difference between spreadsheet software and database software for health data management?:  speedsheets are best for small datasets and user-friendly taks Databases are for large datasets with multi-user access
+
+What is a conflict of interest in public health research?: A conflict of interest occurs when a researcher’s personal or financial interests compromise—or appear to compromise—their objectivity or integrity in conducting or reporting research
+
+What is informed consent in the context of health data collection?: Patients understanding and knowing exactly how their health data will be used
+
+What is data masking in the context of de-identification of health data?: Hiding specefic variables to protect privacy while still maintaning the variables usefulness
+
+What is the principle of $k$-anonymity in the context of de-identification of health data? The principle of 
+k-anonymity ensures that each individual’s data cannot be distinguished from at least k−1 other individuals within a dataset, reducing re-identification risks.
+
+What is the main concern about conflicts of interest in public health research?: The main concern is that conflicts can compromise research integrity, leading to biased findings that may harm public trust or result in unethical outcomes
+
+What is the first step in managing conflicts of interest in public health research?: identifying possible conflicts by requirming the disclouser of all possible personal or finnancial interest
+
+What is the role of independent oversight in managing conflicts of interest in public health research?: Independent oversight involves external review bodies monitoring research processes to ensure transparency and mitigate bias caused by conflicts.
+
+What is one strategy for mitigating conflicts of interest in public health research?:One effective strategy is requiring researchers to divest conflicting financial interests or establish firewalls between funding sources and study outcomes.
+
+What is the potential impact of not properly managing conflicts of interest in public health research?: Failure to manage conflicts can erode public trust, lead to biased results, harm participants, and undermine policy decisions based on flawed evidence.
